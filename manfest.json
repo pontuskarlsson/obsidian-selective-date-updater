@@ -1,0 +1,11 @@
+{
+    "id": "selective-date-updater",
+    "name": "Selective Date Updater",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically manages created and updated dates in frontmatter with powerful blacklist/exclusion rules for folders, files, and patterns",
+    "author": "Pontus Karlsson",
+    "authorUrl": "https://github.com/pontuskarlsson",
+    "repository": "https://github.com/pontuskarlsson/obsidian-selective-date-updater",
+    "isDesktopOnly": false
+}
